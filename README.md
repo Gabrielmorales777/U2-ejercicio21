@@ -7,4 +7,4 @@ El ejercicio consiste en desarrollar una clase abstracta `DispositivoAlmacenamie
 
 Finalmente, se utiliza una colección para gestionar los diferentes dispositivos mediante polimorfismo, demostrando cómo pueden compartir operaciones comunes sin depender de su implementación específica.
 
-![U2 ejercicio21](U2%ejercicio21.png)
+![U2 Ejercicio 21](U2%20ejercicio21.png)
