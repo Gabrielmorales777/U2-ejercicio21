@@ -6,3 +6,5 @@
 El ejercicio consiste en desarrollar una clase abstracta `DispositivoAlmacenamiento` y sus implementaciones concretas `DiscoDuro`, `UnidadSSD` y `MemoriaUSB`. Cada dispositivo posee características propias, capacidad máxima y validaciones para evitar superar el espacio disponible.
 
 Finalmente, se utiliza una colección para gestionar los diferentes dispositivos mediante polimorfismo, demostrando cómo pueden compartir operaciones comunes sin depender de su implementación específica.
+
+![U2 ejercicio21](U2%ejercicio21.png)
